@@ -14,3 +14,8 @@ Mean sea level pressure, 2-meter temperature, precipitable water :
 ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/surface/slp.mon.mean.nc ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/surface_gauss/air.2m.mon.mean.n ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis.derived/surface/pr_wtr.eatm.mon.mean.nc
 
 Precipitations : ftp://ftp.cdc.noaa.gov/Datasets/gpcp/precip.mon.mean.nc
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![MSLP](https://user-images.githubusercontent.com/76565450/162642186-3a1cd76d-3085-4551-bf2b-0181bb968f0a.gif)
+
