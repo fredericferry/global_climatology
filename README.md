@@ -1,5 +1,6 @@
 # global_climatology
-Global DFF/JJA climatologies from NCEP reanalyses on an animated spinning globe
+
+Animate global DJF/JJA climatologies of the atmosphere on a spinning globe
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
